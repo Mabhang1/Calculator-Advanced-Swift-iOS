@@ -1,5 +1,5 @@
 
-![Calculator ADVANCED Banner](Documentation/Calculator%20Advanced.jpg)
+![Calculator ADVANCED Banner](Documentation/Advanced%20Calculator%20Mockup.jpg)
 
 #  Calculator ADVANCED
 
